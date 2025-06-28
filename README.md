@@ -25,4 +25,4 @@ Slluxx for help
 
 6A for help
 
-akheron for janssson
+akheron for jansson
